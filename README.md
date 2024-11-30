@@ -117,14 +117,6 @@ weather_forecasting/
 - **JavaScript**: For enhancing the frontend experience with chart visualizations.
 - **Chart.js** (via `chartSetup.js`): Used for charting weather data.
 
-## Running Tests
-
-If you have tests set up for your project, you can run them using:
-
-```bash
-python manage.py test
-```
-
 ## Troubleshooting
 
 - Ensure that your API key is correct and has the appropriate permissions to access weather data.
